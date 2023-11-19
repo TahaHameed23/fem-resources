@@ -2,8 +2,8 @@ import http from 'node:http';
 import fs from 'node:fs';
 
 
-const hostname = '127.0.0.1';
-const port = 3004;
+const hostname = process.env.HOSTNAME || '127.0.0.1';
+const port =process.env.PORT || 3004;
 
 const data = fs.readFileSync('./resources.json');
 const resources = JSON.parse(data);
