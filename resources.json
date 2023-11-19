@@ -1,0 +1,27 @@
+[
+    {
+        "Complete Intro to Real-Time": "https://btholt.github.io/complete-intro-to-realtime/",
+
+        "Intro to Node.js": "https://scottmoss.notion.site/scottmoss/Intro-to-Node-js-V3-7c8e4ccaebf94b839f425fff13dcc44c",
+
+        "Web assembly": "https://young.github.io/intro-to-web-assembly/",
+
+        "react-v8": "https://react-v8.holt.courses/",
+
+        "docker": "https://btholt.github.io/complete-intro-to-containers/",
+
+        "sql": "https://sql.holt.courses/",
+
+        "database": "https://btholt.github.io/complete-intro-to-databases/",
+
+        "api-design": "https://hendrixer.github.io/API-design-v4/",
+
+        "intro to CS":"https://btholt.github.io/complete-intro-to-computer-science/",
+
+        "Getting SE job":"https://github.com/jeromehardaway/how-to-get-the-front-end-job-v2",
+
+        "JS Patterns":"https://javascriptpatterns.vercel.app/patterns",
+
+        "Accesibility": "https://learn-a11y.netlify.app/"            
+    }
+]
