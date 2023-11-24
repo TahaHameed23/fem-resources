@@ -20,8 +20,8 @@
 
         "Getting SE job":"https://github.com/jeromehardaway/how-to-get-the-front-end-job-v2",
 
-        "JS Patterns":{1:"https://javascriptpatterns.vercel.app/patterns",
-                        2:"https://www.patterns.dev/"},
+        "JS Patterns":{"1":"https://javascriptpatterns.vercel.app/patterns",
+                        "2":"https://www.patterns.dev/"},
 
         "Accesibility": "https://learn-a11y.netlify.app/"            
     }
